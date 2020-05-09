@@ -1,0 +1,35 @@
+student-dodaj Jan Kowalski 19 1
+student-dodaj Ewa Kowalska 19 2
+student-dodaj Adam Kowalski 22 3
+student-dodaj Maria Nowak 23 4
+student-dodaj Pawel Nowak 20 5
+
+grupa-dodaj pytktw5 Katowice 2
+grupa-dodaj jstktw1 Katowice 2
+grupa-dodaj jstgda2z Gdansk 3
+
+temat-dodaj python-wstep wstep-do-pythona 1
+temat-dodaj js-wstep wstep-do-js 2
+temat-dodaj python-technologia technologie-pythona 3
+temat-dodaj python-testowanie testowanie-pythona 4
+temat-dodaj python-djagno django-i-python 5
+
+grupa-dodaj-student 1 1
+grupa-dodaj-student 1 2
+grupa-dodaj-student 1 3
+grupa-dodaj-student 2 4
+grupa-dodaj-student 2 5
+grupa-dodaj-student 3 1
+grupa-dodaj-student 3 5
+
+grupa-dodaj-temat 1 1
+grupa-dodaj-temat 1 3
+grupa-dodaj-temat 1 4
+grupa-dodaj-temat 2 1
+grupa-dodaj-temat 2 3
+grupa-dodaj-temat 2 5
+grupa-dodaj-temat 3 2
+
+grupa-dodaj-obecnosc 1 1 1 1
+grupa-dodaj-obecnosc 1 1 2 0
+
